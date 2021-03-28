@@ -1,4 +1,4 @@
-# Groupie - Group Chat App
+# Movieflixer
 
 ### Created by [Kiran Puli](https://kiranpuli.github.io/Portfolio/)
 
